@@ -1,7 +1,17 @@
+body {
+  margin: 0;
+  background-color: rgb(35, 20, 20);
+}
+
 #gitKomandos > ul {
   max-width: 80%;
   margin: 1.875rem auto 0;
   background-color: azure;
   border-radius: 10px;
   font-size: 1.3rem;
+}
+
+#gitKomandos > li {
+  line-height: 1.5;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
